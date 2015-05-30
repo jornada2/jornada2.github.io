@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+GITHUB_REPONAME = "https://github.com/jornada2/jornada2.github.io"
 
 
 namespace :site do
@@ -19,7 +19,7 @@ namespace :site do
   end
 
 
-  desc "Generate and publish blog to gh-pages"
+  desc "Generate and publish blog to master"
   task :publish => [:generate] do
     Dir.mktmpdir do |tmp|
       cp_r "_site/.", tmp
