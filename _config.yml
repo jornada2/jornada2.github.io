@@ -62,17 +62,7 @@ permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
 
-markdown:      maruku
-markdown_ext:  markdown,mkd,mkdn,md
-textile_ext:   textile
-
 excerpt_separator: "<!-- more -->"
-
-safe:        false
-host:        0.0.0.0
-port:        4000
-baseurl:     /
-lsi:         false
 
 maruku:
   use_tex:    false
@@ -113,6 +103,10 @@ assets:
 
   dirname: assets
   baseurl: /assets/
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
