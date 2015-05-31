@@ -113,10 +113,6 @@ assets:
 
   dirname: assets
   baseurl: /assets/
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
   js_compressor: uglifier
   css_compressor: sass
   cachebust: none
