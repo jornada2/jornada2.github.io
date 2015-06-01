@@ -1,7 +1,7 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Jornada"
+  subtitle:     "Um blog família"
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
@@ -63,13 +63,6 @@ paginate_path: 'page:num'
 paginate: 10
 
 excerpt_separator: "<!-- more -->"
-
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
 
 rdiscount:
   extensions: []
