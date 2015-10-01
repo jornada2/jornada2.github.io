@@ -1,0 +1,99 @@
+html {
+  font-size: $base-font-size;
+}
+
+abbr {
+  border-bottom: $abbr-border-bottom;
+  cursor: help;
+}
+
+p {
+  line-height: 1.5;
+}
+
+small,
+.small {
+  font-size: 0.707rem;
+}
+
+@font-face {
+  font-family: "Sansita Black";
+  src: url("../fonts/sansita/Sansita-BlackItalic.eot?") format("eot"),
+  url("../fonts/sansita/Sansita-BlackItalic.woff") format("woff"),
+  url("../fonts/sansita/Sansita-BlackItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sansita Black Italic";
+  src: url("../fonts/sansita/Sansita-Black.eot?") format("eot"),
+  url("../fonts/sansita/Sansita-Black.woff") format("woff"),
+  url("../fonts/sansita/Sansita-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sansita";
+  src: url("../fonts/sansita/Sansita-Regular.eot?") format("eot"),
+  url("../fonts/sansita/Sansita-Regular.woff") format("woff"),
+  url("../fonts/sansita/Sansita-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sansita Italic";
+  src: url("../fonts/sansita/Sansita-Italic.eot?") format("eot"),
+  url("../fonts/sansita/Sansita-Italic.woff") format("woff"),
+  url("../fonts/sansita/Sansita-Italic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Unna Bold";
+  src: url("../fonts/unna/Unna-Bold.eot?") format("eot"),
+  url("../fonts/unna/Unna-Bold.woff") format("woff"),
+  url("../fonts/unna/Unna-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Unna Bold Italic";
+  src: url("../fonts/unna/Unna-BoldItalic.eot?") format("eot"),
+  url("../fonts/unna/Unna-BoldItalic.woff") format("woff"),
+  url("../fonts/unna/Unna-BoldItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Unna Italic";
+  src: url("../fonts/unna/Unna-Italic.eot?") format("eot"),
+  url("../fonts/unna/Unna-Italic.woff") format("woff"),
+  url("../fonts/unna/Unna-Italic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+
+}
+
+@font-face {
+  font-family: "Unna";
+  src: url("../fonts/unna/Unna-Regular.eot?") format("eot"),
+  url("../fonts/unna/Unna-Regular.woff") format("woff"),
+  url("../fonts/unna/Unna-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Chivo";
+  src: url("../fonts/chivo/Chivo-Black.eot?") format("eot"),
+  url("../fonts/chivo/Chivo-Black.woff") format("woff"),
+  url("../fonts/chivo/Chivo-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}

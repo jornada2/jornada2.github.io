@@ -1,44 +1,57 @@
 ---
-layout: base
+layout: default
 ---
-{% if page.cover_image %}
-<div class="article-cover">
-    <div>
-        <img src="/images/{{ page.cover_image }}" class="image">
-    </div>
-</div>
+
+{% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
 {% endif %}
-<article>
 
-    <div class="container">
-        <header>
-            <div class="meta">
-                By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
-                <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-            </div>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
+<div class="post-header mb2">
+  <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
+  {% if page.update_date %}
+    <span class="post-meta">Updated: {{ page.update_date | date: site.date_format }}</span><br>
+  {% endif %}
+  <h1 class="title">{{ page.title }}</h1>
+    
+    {% assign author = site.authors[page.author] %}
+    <span class="post-meta"><img src="{{ site.baseurl }}/images/{{ author.avatar }}" alt="{{ author.name }}"></span><br>
+    <span class="author">por {{ author.display_name }}</span><br>
+  
+    {% if page.minutes %}
+    Leitura de {{ page.minutes }} minutos
+  {% else %}
+    Leitura de {{ minutes }} minutos
+  {% endif %}
+  </span>
+</div>
 
-        <section>
-            {{ content }}
-            {% include _social.html %}
-        </section>
+    <article class="post-content">
+      {{ content }}
+    </article>
 
-        <footer>
-            <address>
-               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
-                <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
-                <span class="muted">{{ page.author.bio }}</span>
-                </p>
-            </address>
+{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}
 
-        </footer>
+{% if site.show_post_footers %}
+  {% include post_footer.html %}
+{% endif %}
 
-        {% if site.inc.disqus.shortname %}
-        <section>
-            {% include _disqus.html %}
-        </section>
-        {% endif %}
-    </div>
-</article>
+{% if site.disqus_shortname %}
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname  = '{{ site.disqus_shortname }}';
+    var disqus_identifier = '{{ page.id }}';
+    var disqus_title      = '{{ post.title }}';
+
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+
+  {% include pagination.html %}

@@ -1,0 +1,18 @@
+/* Basscss Color Base */
+
+a:hover {
+  text-decoration: underline;
+}
+
+pre,
+code {
+  background-color: $lighter-gray;
+  border-radius: $border-radius;
+}
+
+hr {
+  border: 0;
+  border-bottom-style: solid;
+  border-bottom-width: $border-width;
+  border-bottom-color: $border-color;
+}

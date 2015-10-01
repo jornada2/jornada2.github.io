@@ -1,108 +1,66 @@
-inc:
-  # Blog Information
-  title:        "Jornada"
-  subtitle:     "Um blog família"
-  cover_image:  blog-cover.jpg
-  logo:         logo.png
-  
-  # Company information
-  company:      Jornada
-  url:          http://jornada2.github.io/
-  facebook:     false
-  twitter:      false
-  gplus:        false
-  about_link:   https://jornada2.github.io/about/
-  
-  # Product Information
-  product_link: false
-  tagline:      "Get a modern blog for your company"
-  
-  # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
-  
-  # Sharing settings
-  sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
-    hn:         false
-    
-  
- # Analytics     
-  analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
-      
-      
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
-  
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
+# Site settings
+title:       Jornada
+email:       familiajornada@gmail.com
+description: "Ser pai e mãe é muito gostoso"
+baseurl:     ""
+url:         "http://jornadablog.github.io"
+date_format: "%b %-d, %Y"
 
-url:         http://jornada2.github.io/
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
-include:     ['.htaccess']
-exclude:     []
-timezone:    nil
+authors:
+  gstv:
+    display_name: Gustavo Nering
+    avatar: gstv.png
+  stheff:
+    display_name: Stheffany Nering
+    avatar: stheff.png
 
-# Show future posts
-future:      false
-show_drafts: nil
-limit_posts: 0
-pygments:    true
+# Google services
+google_analytics:
+google_verification:
 
-relative_permalinks: true
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    false
+ajaxify_contact_form: false
 
-permalink:     pretty
-paginate_path: 'page:num'
-paginate: 10
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
 
-excerpt_separator: "<!-- more -->"
+# Social icons
+github_username:
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
-rdiscount:
-  extensions: []
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
+# Build settings
+markdown:     kramdown
 redcarpet:
-  extensions: []
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  use_coderay: false
-
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: inline
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
-
-redcloth:
-  hard_breaks: true
-
-#
-# jekyll-assets: see more at https://github.com/ixti/jekyll-assets
-#
-assets:
-
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: none
-  cache: false
-  gzip: [ text/css, application/javascript ]
-  debug: false
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     1
+sass:
+  compressed: true

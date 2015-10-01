@@ -1,0 +1,24 @@
+<div class="home">
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      
+      <div class="post py3">
+        <div class="post-header">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h1 class="title">{{ post.title }}</h1></a>
+          
+          {% assign author = site.authors[post.author] %}
+          <span class="post-meta"><img src="{{ site.baseurl }}/images/{{ author.avatar }}" alt="{{ author.name }}"></span><br>
+          <span class="author">por {{ author.display_name }}</span><br>
+        </div>
+    
+        <article class="post-content">
+          {{ post.content }}
+        </article>
+
+      </div>
+    {% endfor %}
+  </div>
+
+    {% include pagination.html %}

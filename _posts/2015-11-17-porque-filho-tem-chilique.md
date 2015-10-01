@@ -1,0 +1,130 @@
+---
+layout:     gstv1
+title:      Porque seu filho dá chilique?
+date:       2015-11-17 22:39
+summary:    O chilique do seu quer dizer muito mais do que você imagina.
+categories: jekyll pixyll
+author:	    stheff
+---
+
+
+Vamos por partes.
+
+## O "chilique" acontece por quê? 
+
+Não dá pra vir com essa de "é a toa" ou "é sem motivo" porque a única chance de isso ser verdade é se seu filho for sociopata. É uma suspeita que alguma mãe tem, por acaso? Alguém acha que tá criando um pequeno psicopata em casa? Nem tem como fechar esse diagnóstico tão cedo, mas é o único tipo de caso em que a criança faria coisas assim premeditadamente sem motivo nenhum.
+
+Em geral, a resposta sincera é "eu não sei" e a gente normalmente não sabe porque não estava prestando atenção nos vários sinais que a criança deu antes de explodir. Não porque a gente é ruim ou má mãe, mas porque é ocidental, brasileira, vive em 2014 e nossa cultura é de ignorar crianças pequenas e impor que elas existam de acordo com a nossa conveniência. 
+
+É como quando vem aqui uma mãe de bebê recém nascido, fala que o bebê chora muito, a gente diz pra pegar no colo, pra colocar o bebê no sling. Aí a mãe responde "mas eu fico com ele no colo o dia todo". Não, não fica! Não fica porque essa mãe não é uma aborígene do interior da Naníbia, não cresceu na Mongólia, não é índia da reserva do Xingú! Ela é ocidental, brasileira, vive neste século e não 1000 anos atrás. E as brasileiras não pegam o bebê por muito tempo no colo, pegam mais que as alemãs com certeza, mas não pegam muito tempo porque "tem coisa importante pra fazer". Fez sentido o exemplo?
+
+Culturalmente a gente não presta atenção na criança. A gente cala o choro do recém nascido com chupeta e remédio. Ignora as tentativas de comunicação deles. Finge que não viu. Exige deles mais flexibilidade do que a gente mesmo é capaz. E passa por cima das necessidades deles "só dessa vez" que na verdade acaba sendo todo dia. Eles chamam e a gente diz "só um pouquinho" e esquece de ir. A gente senta pra brincar com eles com o celular do lado, olhando FB a cada 2 minutos e sai imediatamente se ouvir o barulhinho do whatsapp.
+
+> O "chilique" é o quê? É uma desorganização neurológica temporária.
+
+A gente diz que supervisiona, mas não tá ali de verdade. E quando finalmente senta pra brincar se liga que nem tem tanta conexão com o filho assim, começa a mostrar como "tem que brincar" e ainda fica indignada quando a criança perde o interesse.
+
+E aí, quando o negócio explode a gente não sabe da onde veio! E aí qual a explicação dada culturalmente? Que ele tá tentando te manipular, mandar em você, que não tem limites, que acha que pode fazer o que quiser.
+
+Bem-vinda à contradição da maternidade ocidental!
+
+Porque o "chilique" é o quê, na verdade? É uma desorganização neurológica temporária. 
+
+## Vamos falar de cérebro!
+
+Existem 3 partes de cérebro (ou pelo menos em termos de comportamento é assim que importa a divisão): o cérebro reptiliano, o sistema límbico e o neocortex.
+
+Um bebê nasce com o reptiliano completamente desenvolvido. Ele é responsável pelos comportamentos involuntários que nos fazem sobreviver. É responsável por garantir que sobrevivamos. É ele que dispara o choro do recém nascido quando deixamos ele no berço, porque bebê ficar sozinho foi risco imediato à sobrevivência por muito tempo na história da humanidade. O instinto de sobrevivência atua aqui! Lutar ou correr, ou então paralisar numa situação difícil. Tudo regido por essa parte do cérebro. E aqui não há nenhum tipo de pensamento racional! Quando você, adulto, perde a cabeça é pra cá que você vem! E aqui não é possível analisar consequências, repensar escolhas, aqui não há raciocínio, só há ação. Um adendo, essa parte é quem vai reger o trabalho de parto, ato puramente fisiológico. Interessante, né?
+
+O sistema límbico concentra emoções. Em geral se desenvolve quase totalmente até os 5 anos, com pico de desenvolvimento onde, onde, onde? No Terrible Two!!! E tem um outro pico na adolescência (qualquer semelhança, aliás, não é mera coincidência). Aqui vem uma enxurrada de emoções e sentimentos em reação ao que acontece, às experiências vividas. E, claro, da mesma forma como pra andar o bebê cai muitas vezes, aqui ele "erra a medida" muitas vezes. Ele tem muito pouca experiência de vida pra conseguir medir do jeito certo como reagir e muito pouco controle sobre essas emoções todas ainda, então a coisa sempre parece exagerada aos nossos olhos. Parece exagerada pra gente, cujo sistema límbico tá bem treinadinho já! As conexões aqui ainda estão sendo feitas e elas são reforçadas a partir das experiências diárias. Como isso acontece depende de como eles serão ensinados a lidar com essas emoções. Da mesma forma como pra aprender a andar é necessário prática. E, claro, uma criança com 1/2/3 anos de idade não tem quase nenhum controle sobre as próprias emoções, é uma enxurrada que toma ela de repente, o controle vem com o passar dos anos. E é por isso que crianças de 7 anos não fazem isso! Ou pelo menos, não do mesmo jeito que uma criança de 2 anos. Qual foi a última criança de 7 anos que você viu esperneando no chão do supermercado?
+
+Neocortex, a maravilha que nos distingue plenamente de todas as outras espécies. O lugar onde ocorre o pensamento racional! Embora comece a se desenvolver no nascimento, a coisa aqui só anda mesmo depois dos 5 anos de idade e termina lá pelos 20. Ação e reação, capacidade de premeditação, linguagem, capacidade de se entender como alguém no mundo, de se colocar no lugar do outro, de calcular as consequências de um problema, capacidade de perceber porque algo aconteceu e mais um monte de outros raciocínios complexos e abstratos são produzidos através de ligações neurológicas no neocortex! Isso quer dizer que crianças pequenas não conseguem compreender a razão da maioria dos limites e mesmo quando conseguem, elas ainda não tem autocontrole desenvolvido pra seguir o limite. Isso depende basicamente de prática e tempo pro cérebro se desenvolver.
+
+> Perder a cabeça é literalmente perder o acesso ao neocortex.
+
+Sabe o que acontece no "chilique"? A irrigação de sangue é drasticamente reduzida do neocortex pro sistema límbico. Ele toma conta do organismo da pessoa, sem irrigação e oxigenação apropriada no neocortex, ele NÃO FUNCIONA direito (no caso de uma criança pequena ele já é subdesenvolvido). Com certeza todo mundo aqui já experimentou uma situação em que a gente "perde a cabeça", esse perder a cabeça é literalmente perder o acesso ao neocortex, fazendo com que você não consiga raciocinar. É isso que acontece quando a gente se irrita, fica impaciente, quando se desespera, quando sente raiva. Não consegue raciocinar direito, porque falta sangue no neocortex!
+
+Técnicas como respirar fundo, contar até 10, dar uma volta antes de explodir são todas formas de trazer a oxigenação pro neocortex de novo. Baixar o cortisol e subir os níveis de ocitocina. Crianças pequenas, que mamam, automaticamente pedem pra mamar quando começam a sentir o sistema límbico desregulando, porque mamar joga muita ocitocina no organismo, não podendo mamar (e a maioria absoluta de crianças de 2 anos na nossa sociedade não mama mais) elas se jogam nos braços da mãe ou do cuidador de confiança (toque físico libera ocitocina também). Por isso a criança cai, sente dor, sente medo e corre pros pais. Isso se chama inteligência emocional e não dependência emocional.
+
+Uma das técnicas mais rápidas de trazer o sangue de volta pro neocortex é literalmente massagear a testa! 
+
+Dependendo de como reagem ao desequilíbrio emocional da criança, ela vai estabelecendo ligações e reforçando padrões neurológicos que se tornam referencial de conduta. Isso tudo é feito nos primeiros anos de vida. E é aqui que as atitudes práticas entram e que a nossa cultura,  especificamente, fez uma salada. 
+
+## Nossa cultura nos trai
+
+Se, quando o desequilíbrio acontece, a reação dos adultos cuidadores é de ensinar essa criança trazendo o sangue de volta pro neocortex, ela vai conseguindo raciocinar em cima dessas emoções, categoriza-las adequadamente e por fim controla-las. Isso tudo com prática e tempo (porque não dá pra apressar o desenvolvimento do cérebro). Oportunidades pra esse aprendizado é que não faltam na vida de crianças de menos de 5 anos.
+
+Se, porém, a reação é desconforto com o estado emocional da criança, ou de repressão a esse estado (lembrando novamente) absolutamente normal do desenvolvimento infantil, se a reação dos cuidadores faz com que a criança se sinta ameaçada, aí temos um problema. Porque se a criança se sente ameaçada o sangue é reduzido do límbico pro cérebro reptiliano, onde ela em alerta e modo de sobrevivência. 
+
+E é isso que nós culturalmente fazemos. Ignoramos o motivo pelo qual a criança tá desregulada e reagimos como se ela tivesse pleno controle sobre o sistema límbico e pior agimos como se estivesse fingindo.
+
+Na prática: a gente ignora ou bate, briga, grita com a criança porque ela está emocionalmente desregulada, numa demonstração patética de um "chilique" adulto. Como se isso pudesse fazer ela parar de sentir o que está sentindo, em nenhum momento ajudamos a criança a se acalmar, trazer a oxigenação de volta pro neocortex pra ajudar ela a raciocinar com o pouco cérebro desenvolvido que tem. Pelo contrário, nessa hora negamos peito, abraço, voz calma, tudo o que poderia ajudar.
+
+Como nós mesmos fomos reprimidos assim, as emoções cruas das crianças nos incomodam e reagimos de acordo com o mesmo padrão reforçado na nossa infância.
+
+Nossos métodos de resolver são violentos e levam a criança diretamente pro cérebro reptiliano. A questão é que nesse lugar do cérebro, além de não conseguir raciocinar, você é capaz de fazer coisas que normalmente não seria. Não só agir como nunca agiria se estivesse calmo, mas literalmente ganha habilidades que só aparecem aqui. Como por exemplo correr quilometros e quilometros fugindo de um cativeiro onde um assassino queria te matar, mesmo sendo uma pessoa sedentária. Ou se jogar em cima de um cão feroz atacando seu filho e conseguir matar o cão, além de resgatar o filho. Ou ser capaz de abafar todas as suas emoções e "obedecer" mesmo sem autocontrole desenvolvido pra isso ainda.
+
+## Deu pra entender o problema?
+
+Nós normalmente negligenciamos as necessidades das crianças pequenas e exigimos delas uma flexibilidade fora do comum, tudo pela nossa conveniência. Aí a criança vai se descontrolando, nós ignoramos os sinais. Quando ela surta, não sabemos da onde vem aquilo, entramos num estado automático de repressão de sentimentos efetuando o padrão estabelecido no nosso cérebro quando pequenos. Fazemos isso interpretando a desregulagem emocional da criança como falsa e sem motivo. Aplicamos métodos violentos que jogam a criança no cérebro reptiliano dela e aí ela consegue "ficar quieta na igreja", "não bater no coleguinha", "parar de chorar e te seguir no mercado". E aí interpretamos isso como um reforço da crença de que a criança realmente estava fingindo e tentando nos manipular. E vira um círculo vicioso.
+
+É o mesmo círculo vicioso que faz com que o GO fofinho acredite que não dá pra atender parto sem episiotomia. Ele faz uma besteira atrás da outra, num padrão de atendimento deletério e isso faz com que as mulheres realmente lacerem. E tudo isso confirma pra ele que a episiotomia é necessária e benéfica sim. Pra ele ver outro resultado precisa parar de colocar a mulher deitada, com soro, valsava, kristeller e parar de tracionar o bebê, aí ele vai ver que a laceração é rara e normalmente muito inferior à da episiotomia. Mas, só se faz isso com informação correta a cerca da fisiologia do parto.
+
+Só se muda a forma de reagir a essa fase normal das crianças com informação correta sobre desenvolvimento infantil. Com as informações erradas, a gente interpreta errado.
+
+Com a prática, a criança vai conseguindo "se controlar e obedecer" cada vez mais rápido, da mesma forma que um bebê pequeno dorme cada vez mais rápido ao ser deixado pra chorar, o cérebro reptiliano faz de tudo pela sobrevivência. Consegue feitos realmente incríveis!
+
+Deu pra entender porque é que funciona? Ignorar funciona! Gritar funciona! Bater na mãozinha funciona! Funciona a curtíssimo prazo e com a prática o resultado é cada vez mais imediato. O que segue reforçando a crença da criança manipuladora.
+
+## As várias consequências
+
+1. O vínculo mãe-filho, ou cuidador-criança, vai se enfraquecendo. A mãe acreditando cada vez menos na autenticidade do filho e o filho com cada vez mais medo da pessoa de quem ele depende e ama. 
+
+2. Vai sendo reforçado no cérebro um padrão de que quando determinadas emoções aparecem, corre-se pro cérebro reptiliano ao invés de ir pro neocortex. A regulagem e adequação de emoções fica falha. Claro que com o passar dos anos vamos ganhando mais experiência e a situações que disparam nosso sistema límbico de forma tão aguda diminuem, mas elas ainda acontecem na vida adulta. E todos nós conhecemos adultos "cabeça quente" que "não pensam antes de falar/agir". Não tem como pensar mesmo se seu cérebro sempre vai pro lugar errado. E aí a gente é capaz de cometer atrocidades mesmo. É a mãe que espanca o filho até a morte, é o marido que bate na esposa, é o cara que sai beber e gasta o dinheiro da família porque estava triste, é o juiz que usa de todos os seus poderes para acabar com uma fiscal que ousou aplicar a lei nele. É a multidão em histeria coletiva linchando alguém, é o estupro coletivo, é o tacar fogo no índio, o amarrar o negro no poste. Uma desregulagem emocional de alguém cujo padrão é sempre correr pro cérebro primitivo, é se sentir ameaçado por coisas aparentemente insignificantes e desencadear uma reação inimaginável em resposta. 
+
+3. Só funciona pra "educar" a criança a curto prazo, a médio e longo esse tipo de abordagem aumenta a quantidade de "mal comportamento" e de eventos críticos no sistema límbico e faz com que a criança minta e se esquive, pra evitar a punição, até porque ela não confia mais nesse adulto e até agora ninguém ensinou o que efetivamente deveria ser feito, isso ela tem que descobrir sozinha. O aumento de episódios costuma ser interpretado como falta de "pulso firme" e uma crença de que "imagina se eu não colocasse de castigo?" confirmando a natureza selvagem das crianças e reafirmando as posturas punitivas.
+
+## É preciso outro modelo pra ver outros tipos de resultados.
+
+Entender essa desregulagem emocional como um evento normal da vida de uma criança pequena, não se sentir ameaçado pela crueza dos sentimentos dela e acolhe-la e ajuda-la a lidar com aqueles sentimentos todos é uma abordagem que dá muito mais trabalho. Mas, é muito mais efetiva!
+
+Não vai evitar que aconteça, isso é impossível. Mas, vai fortalecer o vínculo cuidador-criança, vai ensinar e dar ferramentas pra lidar com essas emoções de forma apropriada, vai estabelecer um padrão de voltar pro neocortex ao invés de se refugiar no reptiliano (padrão que ela vai levar pra vida adulta) e é muito mais efetivo em termos de diminuir o número e o tempo dos surtos no sistema límbico.
+
+Claro, pode parecer que você não está fazendo nada quando compara com o filho da vizinha que passa o tempo todo no supermercado sem dar um pio dentro do carrinho.
+
+Mas, aí você tem que pensar em qual seu objetivo na vida do seu filho, né? Que tipo de abuso a criança sofreu pra aprender isso? É um preço que você está disposta a pagar? Só pra ter a aprovação de outras pessoas sobre você como mãe disciplinadora?
+
+Importa mais o quê? A relação com seu filho ou a aprovação dos outros? Quem é que vai entregar um adulto responsável pro mundo depois? Quem é que vai saber não ser dominado pelos próprios sentimentos? Situações que nos tiram do eixo, que jogam nosso emocional numa montanha-russa sempre vão ocorrer, quem vai saber lidar com elas e colocar tudo de volta sob controle sem causar danos ao redor?
+
+## Depende…
+
+Então, volta lá: Faz o que na hora do "chilique"?
+
+Depende do motivo, ué!
+
+O fato é que nessa idade aí a gente presta menos atenção nas necessidades básicas deles. Então, fome, sono, sede, cansaço e dor são coisas que deixam a criança (e qualquer adulto, diga-se de passagem) predisposto a surtar. Prevenção aqui vale ouro!
+
+E depois disso tem fatores emocionais: medo, ansiedade, etc. Que precisam ser tratadas especificamente.
+
+Tem culturas em que essa desregulagem emocional é menos aguda nas crianças. Em parte porque os adultos se desenvolveram com o padrão correto, indo pro neocortex, então eles não se sentem ameaçados pelos sentimentos da crianças. Eles sabem que é normal e passageiro, vão ensinando com calma e pelo exemplo. O completo oposto da nossa sociedade, em que exigimos das crianças um padrão de perfeição e autocontrole emocional que nem nós mesmos conseguimos atingir. E em parte porque poucas sociedade exigem tanto dos seus participantes, poucas culturas negligenciam necessidades básicas como a cultura ocidental. Comemos mal, quase todo mundo costuma estar em algum nível de desidratação, dormimos pouco, convivemos quase sempre com a dor em algum lugar, vivemos ansiosos, com medo, correndo. Isso nos deixa sempre no limite. Como resposta nossas crianças realmente reagem mais frequentemente a esse descompasso. Dá pra tentar mudar alguma coisa, mas continuamos ocidentais...por mais que gostemos de nos chamar de índias!
+
+
+## Peço desculpas
+
+Sei que falei, falei, falei e de prático não disse nada!
+
+Não dei uma dica de como agir. Mas, não dá pra dar dicas se continuarmos nos guiando pelo padrão anterior. Não funciona!
+
+Primeiro informação sobre desenvolvimento infantil, pra entendermos o que tá acontecendo e porquê, depois pensamos em como intervir.
+
+* * *
+
+## Ps. As palavras importam
+
+Aliás, depois de tudo isso já deu de chamar a crise emocional da criança de "xilique", né? Não é chilique, não é manha, não é drama, não é show, não é birra, não é escândalo, não é piti. É uma crise emocional no sistema límbico, um desiquilibrio neurológico passageiro, uma necessidade de ajuda pra lidar com alguma situação, é um curto circuito no cérebro. Não é voluntário! Não é premeditado! E não é fingido!
+
+Eu sei que muitas de nós usamos essa palavra "na falta de outra", mas pensem comigo: se uma mãe vem aqui e diz que o bebê de 5 dias tá fazendo manha, a gente imediatamente rebate dizendo que "não é manha, que é comunicação, que o bebê está precisando de algo, normalmente peito". Por que é que com a criança de 2 anos a gente aceita a palavra "manha"? Porque no fundo a gente não acredita que a criança esteja com problema nenhum. E se a gente não acredita que há um problema, a gente não acredita que ela precisa de ajuda. Se a gente não acredita que ela precisa de ajuda, a gente não ajuda! E a gente deixa a criança sozinha tentando descobrir como faz pra sair daquele labirinto emocional e ainda pune por ela ter um problema.
+
+Então, daqui pra frente, vamos combinar de não usar mais essas palavras tão pejorativas? Vamos usar "não está conseguindo lidar com seus sentimentos", ou "está desregulada", ou precisa de "ajuda pra se acalmar", ou "está com dificuldade", até "perdeu a cabeça" é melhor do que qualquer das palavras tradicionais. Qualquer coisa que traga à tona a situação real, que é isso não ser o normal, que a criança está precisando de ajuda, que isso vai passar.
+
+As palavras importam!

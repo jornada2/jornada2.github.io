@@ -1,0 +1,15 @@
+a {
+  color: $link-color;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: $link-hover-color;
+  text-decoration: none;
+  border: 0;
+}
+
+p a {
+	border-bottom: 1px solid $link-color;
+}

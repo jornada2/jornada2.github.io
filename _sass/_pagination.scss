@@ -1,0 +1,36 @@
+.pagination {
+  font-size: 1rem;
+  font-family: 'Sansita', Verdana, sans-serif;
+  font-weight: normal;
+  text-align: center;
+}
+
+.pagination a, .pagination .disabled {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  border-radius: 0.1875em;
+  padding: 1em 1.5em;
+}
+
+.pagination .disabled {
+  opacity: 0;
+}
+
+.pagination .button {
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.button-disabled {
+  opacity: 0;
+  background-color: #999;
+}
+
+.button-disabled:hover,
+.button-disabled:active,
+.button-disabled:focus {
+  cursor: not-allowed;
+  background-color: #999;
+}
