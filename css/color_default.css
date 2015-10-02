@@ -69,12 +69,21 @@ footer a:active {
   border-bottom: thin solid #f3f3f3;
 }
 
+.button-blue {
+  background: #d71920;
+  color: #97e0a7;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
+  color: #f15a22;
+}
+
+hr {
   color: #f15a22;
 }
 

@@ -1,6 +1,6 @@
 body {
-  color: #3a0608;
-  background-color: #fff4de;
+  color: #1f231e;
+  background-color: #ecc0a4;
 }
 
 a {
@@ -11,13 +11,13 @@ a {
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  color: #f15a22;
+  color: #a35563;
 }
 
 
 .pagination a:hover, .pagination a:focus {
   background: #97e0a7;
-  color: #3a0608;
+  color: #a35563;
 }
 
 .pagination a:active {
@@ -25,15 +25,15 @@ a {
 }
 
 .pagination a, .pagination .disabled {
-  background: #3a0608;
-  border: 1px solid #97e0a7;
+  background: #a35563;
+  border: 1px solid #99cc99;
   color: #97e0a7;
 }
 
 .site-header {
-  background: #3a0608;
+  background: #a35563;
   color: #97e0a7;
-  border-bottom:  #f15a22 solid 4px;
+  border-bottom:  #99cc99 solid 4px;
  }
 
 .site-header a,
@@ -49,7 +49,7 @@ footer a:focus,
 footer a:active {
   color: #85ab8f;
   opacity: 1;
-  border-bottom: 2px solid #85ab8f;
+  border-bottom: 2px solid #99cc99;
 }
 
 .site-header nav a {
@@ -62,7 +62,7 @@ footer a:active {
 
 .meta,
 .post-meta {
-  color: #3a0608;
+  color: #a35563;
 }
 
 .posts .post {
@@ -75,20 +75,20 @@ h3,
 h4,
 h5,
 h6 {
-  color: #f15a22;
+  color: #a35563;
 }
 
 hr{
-  color: #f15a22;
+  color: #a35563;
 }
 
 .button-blue{
-  background: #3a0608;
+  background: #a35563;
   color: #97e0a7;
 }
 
 footer {
-  background: #3a0608;
+  background: #a35563;
   color: #97e0a7;
-  border-top: #f15a22 solid 4px;
+  border-top: #99cc99 solid 4px;
  }

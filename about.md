@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: Ser pai e mãe é gostoso
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+A jornada de uma mãe e um pai encontra suas pedras no caminho. É devido a essas pedras que surgiu o Jornada, um blog que quer trazer informação, trocar ideia, fornecer cursos, palestras e workshops que dêem ferramentas pra gente conseguir aproveitar nossa paternidade.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+## Desculpa a bagunça
 
-Thanks to the following:
+O blog é novo. Ele ainda está em construção. Algumas coisas estão incompletas, e ainda estamos desenvolvendo o conteúdo. 
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Qualquer dúvida, [fale com a gente](../contato/).
