@@ -14,6 +14,10 @@ a {
   color: #a35563;
 }
 
+.mail{
+  background:#b5cde3; 
+  clear:left;
+}
 
 .pagination a:hover, .pagination a:focus {
   background: #97e0a7;
@@ -85,6 +89,10 @@ hr{
 .button-blue{
   background: #a35563;
   color: #97e0a7;
+}
+
+#mc-embed-subscribe{
+  margin: 1em 0px 1em 0%;
 }
 
 footer {

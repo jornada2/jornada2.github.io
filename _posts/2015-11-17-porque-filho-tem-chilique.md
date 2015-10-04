@@ -1,6 +1,6 @@
 ---
 layout:     stheff1
-title:      Porque seu filho dá chilique?
+title:      Por que seu filho dá chilique?
 date:       2015-11-17 22:39
 summary:    O chilique do seu quer dizer muito mais do que você imagina.
 categories: jekyll pixyll
@@ -8,6 +8,7 @@ author:	    stheff
 ---
 
 _![]({{ site.baseurl }}/images/chilique.jpg)_
+_Fonte da imagem: http://huffingpost.com_
 
 > Vamos por partes.
 

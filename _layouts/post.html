@@ -15,7 +15,7 @@ layout: default
   <h1 class="title">{{ page.title }}</h1>
     
     {% assign author = site.authors[page.author] %}
-    <span class="post-meta"><img src="{{ site.baseurl }}/images/{{ author.avatar }}" alt="{{ author.name }}"></span><br>
+    <span class="post-meta"><img src="{{ site.baseurl }}/images/{{ author.avatar }}" height="100px" alt="{{ author.name }}"></span><br>
     <span class="author">por {{ author.display_name }}</span><br>
   
     {% if page.minutes %}
@@ -24,7 +24,7 @@ layout: default
     Leitura de {{ minutes }} minutos
   {% endif %}
   </span>
-</div>
+</div> 
 
     <article class="post-content">
       {{ content }}
