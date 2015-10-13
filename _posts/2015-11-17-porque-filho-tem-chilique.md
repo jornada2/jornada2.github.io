@@ -2,8 +2,8 @@
 layout:     stheff1
 title:      Por que seu filho dá chilique?
 date:       2015-11-17 22:39
-summary:    O chilique do seu quer dizer muito mais do que você imagina.
-categories: jekyll pixyll
+summary:    Seu filho com certeza vai dar chilique em algum momento. Mas antes de saber o que fazer, é necessário entender o que é um chilique.
+categories: tandrum
 author:	    stheff
 ---
 
