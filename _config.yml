@@ -1,7 +1,7 @@
 # Site settings
 title:       Jornada
 email:       familiajornada@gmail.com
-description: "Ser pai e mãe é muito gostoso"
+description: "Ser pai e mãe pode ser suave"
 baseurl:     ""
 url:         "http://jornadablog.github.io"
 date_format: "%b %-d, %Y"
@@ -15,8 +15,8 @@ authors:
     avatar: stheff.png
 
 # Google services
-google_analytics:
-google_verification:
+google_analytics: UA-68811883-1
+google_verification: google44959d78ee31f369.html
 
 # Optional features
 animated:             false
