@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ser pai e mãe é gostoso
+title: Ser pai e mãe pode ser suave
 permalink: /about/
 ---
 

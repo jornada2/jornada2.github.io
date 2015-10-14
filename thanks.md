@@ -3,4 +3,8 @@ layout: page
 title: Thanks For Your Message
 permalink: /thanks/
 ---
-Thanks for contacting us. We will reply as soon as possible.
+> Obrigado pelo contato. 
+
+A gente lê todos os emails e responde assim que der.
+
+Um cordial abraço!
