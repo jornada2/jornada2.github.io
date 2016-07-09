@@ -3,7 +3,7 @@ title:       Jornada
 email:       familiajornada@gmail.com
 description: "Ser pai e mãe pode ser suave"
 baseurl:     ""
-url:         "http://jornadablog.github.io"
+url:         "http://jornadablog.com"
 date_format: "%b %-d, %Y"
 
 authors:
@@ -68,3 +68,4 @@ sass:
 # Sitemap
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
