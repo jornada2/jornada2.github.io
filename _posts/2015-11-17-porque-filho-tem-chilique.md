@@ -7,7 +7,7 @@ categories: tandrum
 author:	    stheff
 ---
 
-_![]({{ site.baseurl }}/images/chilique.jpg)_
+![]({{ site.baseurl }}/images/chilique.jpg)
 _Fonte da imagem: http://huffingpost.com_
 
 > Vamos por partes.
